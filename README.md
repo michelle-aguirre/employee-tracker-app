@@ -10,7 +10,7 @@ In this project I created a portfolio using HTML and CSS. This portfolio showcas
 
 ## Video Link
 
-	[walk-through video](https://www.youtube.com/watch?v=pI6CMsbjN5Q)
+[walk-through video](https://www.youtube.com/watch?v=pI6CMsbjN5Q)
 
 ## Table of Contents
 
